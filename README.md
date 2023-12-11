@@ -1,6 +1,6 @@
-I am me
+i am me
 
-Hello
+hello
 
 <!--
 **i-be-keggles/i-be-keggles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
